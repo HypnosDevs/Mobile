@@ -16,6 +16,6 @@ History log to review past meal selections.
 [4].History Log Users can revisit their meal history to reminisce about past culinary experiences.
 
 ##Technologies Used
-*Flutter
+Flutter
 
-*Dart
+Dart
